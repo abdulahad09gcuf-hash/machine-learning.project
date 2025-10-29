@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abdul Ahad!
 
 🎓 **BS Bioinformatics (7th Semester)**  
-💻 **Software Developer | Data Science Enthusiast | Bioinformatics Learner**  
+💻 ** | Data Science Enthusiast | Bioinformatics Learner**  
 🌍 From **Pakistan | GCUF (Government College University, Faisalabad)**  
 📧 **Contact:** abdulahad09gcuf@gmail.com  
 
@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Machine Learning, React.js, and Bioinformatics tools**
+- 🌱 Currently learning **Machine Learning, and Bioinformatics tools**
 - 🧬 Passionate about integrating **AI + Biology**
-- ⚙️ Working on projects using **HTML, CSS, JavaScript, React, Flask, and Python**
+- ⚙️ Working on projects using **HTML, CSS Flask, and Python**
 - 🧠 Interested in **Genomics, Transcriptomics, and AI-driven healthcare**
 - 💡 Always exploring **data visualization** and **bioinformatics pipelines**
 
@@ -20,10 +20,10 @@
 ## 🧩 My Skills
 
 **Languages:**  
-`Python` | `JavaScript` | `C++` | `HTML` | `CSS`
+`Python` | `C++` | `HTML` | `CSS`
 
 **Frameworks & Tools:**  
-`React.js` | `Flask` | `Streamlit` | `Pandas` | `Plotly` | `Numpy`
+| `Flask` | `Streamlit` | `Pandas` | `Plotly` | `Numpy`
 
 **Bioinformatics Tools:**  
 `Biopython` | `SRA Toolkit` | `NCBI BLAST` | `FASTQ/FASTA` | `R (Basic)`
