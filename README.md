@@ -1,7 +1,7 @@
 
-# 👋 Hi , I'm Abdul Ahad!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abdul+Ahad;Bioinformatics+Student;Data+Science+%26+ML+Enthusiast;AI+in+Bioinformatics)](https://git.io/typing-svg)
+# 👋 Hi , I'm Abdul Ahad!
 
 🎓 **BS Bioinformatics (7th Semester)**  
 💻 **Data Science Enthusiast | Bioinformatics Learner**  
