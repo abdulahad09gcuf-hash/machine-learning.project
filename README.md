@@ -57,10 +57,12 @@
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 <p align="center">
   <a href="https://github.com/abdulahad09gcuf-hash"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:abdulahad09gcuf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdul-ahad09gcuf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdul-ahad-14812b260/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
