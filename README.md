@@ -21,12 +21,12 @@
 
 ### 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
 </p>
 
 ### 🧰 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,streamlit,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flask,streamlit" />
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/SRA%20Toolkit-009688?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAKUlEQVQoU2NkYGD4z0AEYBxVSFjAgAmB0qD0IYkoCYdFCAMARfUCFoZV6M4AAAAASUVORK5CYII=" />
   <img src="https://img.shields.io/badge/NCBI%20BLAST-4B8BBE?style=for-the-badge&logo=biotech&logoColor=white" />
   <img src="https://img.shields.io/badge/FASTQ%20%2F%20FASTA-795548?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+
 </p>
 
 ### ⚙️ Tools & Platforms
