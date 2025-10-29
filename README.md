@@ -19,36 +19,14 @@
 
 ---
 
-## 🧩 My Skills
+## 🎡 My Skills (Animated)
 
-### 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+  <img src="https://raw.githubusercontent.com/abdulahad09gcuf-hash/animated-skills/main/skills-wheel.gif" alt="Animated Skills Wheel" width="400"/>
 </p>
 
-### 🧰 Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,streamlit,react,bootstrap,tailwind" />
-</p>
-
-### 📊 Data Science & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,sklearn,tensorflow,jupyter" />
-</p>
-
-### 🧬 Bioinformatics Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SRA%20Toolkit-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NCBI%20BLAST-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FASTQ%20%2F%20FASTA-795548?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda" />
-</p>
+*This wheel includes:*  
+Python, C++, HTML, CSS, JavaScript, Flask, Streamlit, React, Bootstrap, Tailwind, Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow, Jupyter, Biopython, RStudio, SRA Toolkit, NCBI BLAST, FASTQ/FASTA, Git, GitHub, VSCode, Linux, Anaconda
 
 ---
 
