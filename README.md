@@ -1,4 +1,4 @@
-<p align="Right">
+<p align="left">
   <img src="https://raw.githubusercontent.com/abdulahad09gcuf-hash/your-repo/main/profile-pic.jpg" width="150" alt="Abdul Ahad"/>
 </p>
 # 👋 Hi there, I'm Abdul Ahad!
