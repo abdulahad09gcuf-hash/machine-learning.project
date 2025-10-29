@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Abdul Ahad!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abdul+Ahad;Bioinformatics+Student;Data+Science+%26+ML+Enthusiast;AI+in+Bioinformatics)](https://git.io/typing-svg)
+
 🎓 **BS Bioinformatics (7th Semester)**  
-💻 **| Data Science Enthusiast | Bioinformatics Learner**  
+💻 **Data Science Enthusiast | Bioinformatics Learner**  
 🌍 From **Pakistan | GCUF (Government College University, Faisalabad)**  
 📧 **Contact:** abdulahad09gcuf@gmail.com  
 
@@ -21,12 +23,12 @@
 
 ### 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
 </p>
 
 ### 🧰 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,streamlit" />
+  <img src="https://skillicons.dev/icons?i=flask,streamlit,react,bootstrap,tailwind" />
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -37,10 +39,10 @@
 ### 🧬 Bioinformatics Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SRA%20Toolkit-009688?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAKUlEQVQoU2NkYGD4z0AEYBxVSFjAgAmB0qD0IYkoCYdFCAMARfUCFoZV6M4AAAAASUVORK5CYII=" />
-  <img src="https://img.shields.io/badge/NCBI%20BLAST-4B8BBE?style=for-the-badge&logo=biotech&logoColor=white" />
+  <img src="https://img.shields.io/badge/SRA%20Toolkit-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NCBI%20BLAST-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FASTQ%20%2F%20FASTA-795548?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -69,9 +71,14 @@
 
 ## 🧠 Featured Projects
 
-🔹 [**DNA Sequence Classifier**](#) — Machine Learning model to classify DNA sequences  
-🔹 [**Punjab Commodity Dashboard**](#) — Interactive data visualization using Streamlit + Plotly  
-🔹 [**Gene Expression Models Review**](#) — Research-based bioinformatics analysis project  
+<details>
+<summary>Click to expand 🔍</summary>
+
+- 🔹 [**DNA Sequence Classifier**](#) — Machine Learning model to classify DNA sequences  
+- 🔹 [**Punjab Commodity Dashboard**](#) — Interactive data visualization using Streamlit + Plotly  
+- 🔹 [**Gene Expression Models Review**](#) — Research-based bioinformatics analysis project  
+
+</details>
 
 ---
 
@@ -95,6 +102,11 @@
 
 ## 🧩 Fun Fact
 > “Combining biology and code isn’t just science — it’s creativity with purpose.”
+
+---
+
+## 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=abdulahad09gcuf-hash&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
