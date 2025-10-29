@@ -1,8 +1,5 @@
-<p align="left">
-  <img src="![IMG-20250826-WA0003 1](https://github.com/user-attachments/assets/f650b45a-dd45-430c-8a0f-e8f3921537a6)
-" width="150" alt="Abdul Ahad"/>
-</p>
-# 👋 Hi there, I'm Abdul Ahad!
+
+# 👋 Hi , I'm Abdul Ahad!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abdul+Ahad;Bioinformatics+Student;Data+Science+%26+ML+Enthusiast;AI+in+Bioinformatics)](https://git.io/typing-svg)
 
