@@ -1,3 +1,6 @@
+<p align="Right">
+  <img src="https://raw.githubusercontent.com/abdulahad09gcuf-hash/your-repo/main/profile-pic.jpg" width="150" alt="Abdul Ahad"/>
+</p>
 # 👋 Hi there, I'm Abdul Ahad!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abdul+Ahad;Bioinformatics+Student;Data+Science+%26+ML+Enthusiast;AI+in+Bioinformatics)](https://git.io/typing-svg)
