@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **Machine Learning, and Bioinformatics tools**
 - 🧬 Passionate about integrating **AI + Biology**
-- ⚙️ Working on projects using **HTML, CSS Flask, and Python**
+- ⚙️ Working on projects using **HTML, CSS Flask, and Python, streamlit , machine learning algorithms etc**
 - 🧠 Interested in **Genomics, Transcriptomics, and AI-driven healthcare**
 - 💡 Always exploring **data visualization** and **bioinformatics pipelines**
 
