@@ -20,11 +20,13 @@ Currently exploring **Machine Learning**, **AI in Healthcare**, and **Bioinforma
 
 ---
 
-### ✨ Fun Add-ons
-- 🎯 Currently working on: **DNA Sequence Classifier**
+### ✨ Fun Add-on
+- 🎯 Currently working on: **DNA Sequence Classifier **
 - 🌱 Learning: **AI in Bioinformatics**
-- 💬 Ask me about: **Data Science & Genomics**
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+- 💬💬 Ask me about: **Machine Learning, Data Visualization, or Genomic Analysis**
+
+- 📫 Reach me: abdulahad09gcuf@gmail.com
+- 
 
 ---
 
