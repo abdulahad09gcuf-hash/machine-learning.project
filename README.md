@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/abdulahad09gcuf-hash/your-repo/main/profile-pic.jpg" width="150" alt="Abdul Ahad"/>
+  <img src="![IMG-20250826-WA0003 1](https://github.com/user-attachments/assets/f650b45a-dd45-430c-8a0f-e8f3921537a6)
+" width="150" alt="Abdul Ahad"/>
 </p>
 # 👋 Hi there, I'm Abdul Ahad!
 
