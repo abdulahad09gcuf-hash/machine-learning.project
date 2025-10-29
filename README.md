@@ -1,41 +1,74 @@
-# Hi there 👋, I'm Abdul Ahad  
-### 🧬 Bioinformatics & Data Science Enthusiast  
+# 👋 Hi there, I'm Abdul Ahad!
 
-I’m passionate about combining **biology and technology** to uncover insights from **genomic, proteomic, and clinical data**.  
-Currently exploring **Machine Learning**, **AI in Healthcare**, and **Bioinformatics web apps** using **Python, Streamlit, Flask, and Plotly**.  
-
----
-
-### 🛠️ Tech Stack
-💻 Python | R | JavaScript | HTML | CSS  
-📚 Pandas | NumPy | Scikit-learn | BioPython | Matplotlib | Streamlit  
-🧠 Machine Learning | Data Visualization | Systems Biology  
+🎓 **BS Bioinformatics (7th Semester)**  
+💻 **Software Developer | Data Science Enthusiast | Bioinformatics Learner**  
+🌍 From **Pakistan | GCUF (Government College University, Faisalabad)**  
+📧 **Contact:** abdulahad09gcuf@gmail.com  
 
 ---
 
-### 📊 GitHub Stats  
-![Abdul Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahad223&show_icons=true&theme=tokyonight)  
+## 🚀 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad223&layout=compact&theme=radical)  
-
----
-
-### ✨ Fun Add-on
-- 🎯 Currently working on: **DNA Sequence Classifier **
-- 🌱 Learning: **AI in Bioinformatics**
-- 💬💬 Ask me about: **Machine Learning, Data Visualization, or Genomic Analysis**
-
-- 📫 Reach me: abdulahad09gcuf@gmail.com
-- 
+- 🌱 Currently learning **Machine Learning, React.js, and Bioinformatics tools**
+- 🧬 Passionate about integrating **AI + Biology**
+- ⚙️ Working on projects using **HTML, CSS, JavaScript, React, Flask, and Python**
+- 🧠 Interested in **Genomics, Transcriptomics, and AI-driven healthcare**
+- 💡 Always exploring **data visualization** and **bioinformatics pipelines**
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/abdulahad223)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
+## 🧩 My Skills
+
+**Languages:**  
+`Python` | `JavaScript` | `C++` | `HTML` | `CSS`
+
+**Frameworks & Tools:**  
+`React.js` | `Flask` | `Streamlit` | `Pandas` | `Plotly` | `Numpy`
+
+**Bioinformatics Tools:**  
+`Biopython` | `SRA Toolkit` | `NCBI BLAST` | `FASTQ/FASTA` | `R (Basic)`
 
 ---
 
-### ✨ Quote
-> “Data is the new microscope — it helps us see life in patterns and possibilities.”
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulahad09gcuf-hash&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad09gcuf-hash&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
+
+---
+
+## 🧠 Featured Projects
+
+🔹 [**DNA Sequence Classifier**](#) — Machine Learning model to classify DNA sequences  
+🔹 [**Punjab Commodity Dashboard**](#) — Interactive data visualization using Streamlit + Plotly  
+🔹 [**Gene Expression Models Review**](#) — Research-based bioinformatics analysis project  
+
+---
+
+## 🏆 Achievements & Learning
+
+- 🎖️ Completed multiple **bioinformatics analysis projects**
+- 📜 Familiar with **Machine Learning workflows**
+- 🧬 Learning **AI applications in Cancer Genomics**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/abdulahad09gcuf-hash"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:abdulahad09gcuf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdul-ahad09gcuf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧩 Fun Fact
+> “Combining biology and code isn’t just science — it’s creativity with purpose.”
+
+---
+
+⭐ **Star** some of my projects if you like them!  
+📚 *Always open for collaboration and learning new things.*
