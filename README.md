@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abdul Ahad!
 
 🎓 **BS Bioinformatics (7th Semester)**  
-💻 ** | Data Science Enthusiast | Bioinformatics Learner**  
+💻 **| Data Science Enthusiast | Bioinformatics Learner**  
 🌍 From **Pakistan | GCUF (Government College University, Faisalabad)**  
 📧 **Contact:** abdulahad09gcuf@gmail.com  
 
@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Machine Learning, and Bioinformatics tools**
+- 🌱 Currently learning **Machine Learning** and **Bioinformatics tools**
 - 🧬 Passionate about integrating **AI + Biology**
-- ⚙️ Working on projects using **HTML, CSS Flask, and Python, streamlit , machine learning algorithms etc**
+- ⚙️ Working on projects using **HTML, CSS, Flask, Streamlit, Python, and ML algorithms**
 - 🧠 Interested in **Genomics, Transcriptomics, and AI-driven healthcare**
 - 💡 Always exploring **data visualization** and **bioinformatics pipelines**
 
@@ -19,14 +19,34 @@
 
 ## 🧩 My Skills
 
-**Languages:**  
-`Python` | `C++` | `HTML` | `CSS`
+### 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+</p>
 
-**Frameworks & Tools:**  
-| `Flask` | `Streamlit` | `Pandas` | `Plotly` | `Numpy`
+### 🧰 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,streamlit,react,bootstrap,tailwind" />
+</p>
 
-**Bioinformatics Tools:**  
-`Biopython` | `SRA Toolkit` | `NCBI BLAST` | `FASTQ/FASTA` | `R (Basic)`
+### 📊 Data Science & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,sklearn,tensorflow,jupyter" />
+</p>
+
+### 🧬 Bioinformatics Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SRA%20Toolkit-009688?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAKUlEQVQoU2NkYGD4z0AEYBxVSFjAgAmB0qD0IYkoCYdFCAMARfUCFoZV6M4AAAAASUVORK5CYII=" />
+  <img src="https://img.shields.io/badge/NCBI%20BLAST-4B8BBE?style=for-the-badge&logo=biotech&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTQ%20%2F%20FASTA-795548?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda" />
+</p>
 
 ---
 
@@ -35,6 +55,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulahad09gcuf-hash&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad09gcuf-hash&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdulahad09gcuf-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -54,8 +82,6 @@
 - 🧬 Learning **AI applications in Cancer Genomics**
 
 ---
-
-## 📫 Connect With Me
 
 ## 📫 Connect With Me
 
