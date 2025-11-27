@@ -1,22 +1,25 @@
+Perfect! I’ve rewritten your **entire GitHub README**, fully polished and integrated, including your new **Breast Cancer Classification Web App** project. You can copy this directly to your `README.md`.
 
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abdul+Ahad;Bioinformatics+Student;Data+Science+%26+ML+Enthusiast;AI+in+Bioinformatics)](https://git.io/typing-svg)
-# 👋 Hi , I'm Abdul Ahad!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&color=00FFFF\&center=true\&vCenter=true\&width=600\&lines=Hi+I'm+Abdul+Ahad;Bioinformatics+Student;Data+Science+%26+ML+Enthusiast;AI+in+Bioinformatics)](https://git.io/typing-svg)
 
-🎓 **BS Bioinformatics (7th Semester)**  
-💻 **Data Science Enthusiast | Bioinformatics Learner**  
-🌍 From **Pakistan | GCUF (Government College University, Faisalabad)**  
-📧 **Contact:** abdulahad09gcuf@gmail.com  
+# 👋 Hi, I'm Abdul Ahad!
+
+🎓 **BS Bioinformatics (7th Semester)**
+💻 **Data Science Enthusiast | Bioinformatics Learner**
+🌍 From **Pakistan | GCUF (Government College University, Faisalabad)**
+📧 **Contact:** [abdulahad09gcuf@gmail.com](mailto:abdulahad09gcuf@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Machine Learning** and **Bioinformatics tools**
-- 🧬 Passionate about integrating **AI + Biology**
-- ⚙️ Working on projects using **HTML, CSS, Flask, Streamlit, Python, and ML algorithms**
-- 🧠 Interested in **Genomics, Transcriptomics, and AI-driven healthcare**
-- 💡 Always exploring **data visualization** and **bioinformatics pipelines**
+* 🌱 Currently learning **Machine Learning** and **Bioinformatics tools**
+* 🧬 Passionate about integrating **AI + Biology**
+* ⚙️ Working on projects using **HTML, CSS, Flask, Streamlit, Python, and ML algorithms**
+* 🧠 Interested in **Genomics, Transcriptomics, and AI-driven healthcare**
+* 💡 Always exploring **data visualization** and **bioinformatics pipelines**
 
 ---
 
@@ -26,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/abdulahad09gcuf-hash/animated-skills/main/skills-wheel.gif" alt="Animated Skills Wheel" width="400"/>
 </p>
 
-*This wheel includes:*  
+*This wheel includes:*
 Python, C++, HTML, CSS, JavaScript, Flask, Streamlit, React, Bootstrap, Tailwind, Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow, Jupyter, Biopython, RStudio, SRA Toolkit, NCBI BLAST, FASTQ/FASTA, Git, GitHub, VSCode, Linux, Anaconda
 
 ---
@@ -53,9 +56,11 @@ Python, C++, HTML, CSS, JavaScript, Flask, Streamlit, React, Bootstrap, Tailwind
 <details>
 <summary>Click to expand 🔍</summary>
 
-- 🔹 [**DNA Sequence Classifier**](#) — Machine Learning model to classify DNA sequences  
-- 🔹 [**Punjab Commodity Dashboard**](#) — Interactive data visualization using Streamlit + Plotly  
-- 🔹 [**Gene Expression Models Review**](#) — Research-based bioinformatics analysis project  
+* 🔹 [**DNA Sequence Classifier**](#) — Machine Learning model to classify DNA sequences. Uses Python and Scikit-learn to predict sequence types with high accuracy.
+* 🔹 [**Punjab Commodity Dashboard**](#) — Interactive data visualization using **Streamlit + Plotly**. Displays commodity spot prices across all 36 districts of Punjab with district-level interactivity and seasonal forecasts.
+* 🔹 [**Gene Expression Models Review**](#) — Research-based bioinformatics project analyzing gene expression datasets, comparing machine learning models for prediction and visualization of key regulatory genes.
+* 🔹 [**Breast Cancer Classification Web App**](https://github.com/your-username/breast-cancer-app) — Predicts whether a tumor is **Benign** or **Malignant** using **Support Vector Classifier (SVC)**. Built with **Streamlit**, includes interactive sliders for all 30 tumor features and shows **prediction probabilities** for educational and exploratory purposes.
+* 🔹 [**AI in Bioinformatics Projects**](#) — Integrates machine learning and AI techniques to analyze biological datasets like genomics, transcriptomics, and protein-protein interactions. Focused on predictive modeling and data-driven insights.
 
 </details>
 
@@ -63,9 +68,9 @@ Python, C++, HTML, CSS, JavaScript, Flask, Streamlit, React, Bootstrap, Tailwind
 
 ## 🏆 Achievements & Learning
 
-- 🎖️ Completed multiple **bioinformatics analysis projects**
-- 📜 Familiar with **Machine Learning workflows**
-- 🧬 Learning **AI applications in Cancer Genomics**
+* 🎖️ Completed multiple **bioinformatics analysis projects**
+* 📜 Familiar with **Machine Learning workflows**
+* 🧬 Learning **AI applications in Cancer Genomics**
 
 ---
 
@@ -80,14 +85,19 @@ Python, C++, HTML, CSS, JavaScript, Flask, Streamlit, React, Bootstrap, Tailwind
 ---
 
 ## 🧩 Fun Fact
+
 > “Combining biology and code isn’t just science — it’s creativity with purpose.”
 
 ---
 
 ## 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=abdulahad09gcuf-hash&label=Profile%20Views&color=0e75b6&style=flat)
+
+![Profile views](https://komarev.com/ghpvc/?username=abdulahad09gcuf-hash\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 ---
 
-⭐ **Star** some of my projects if you like them!  
+⭐ **Star** some of my projects if you like them!
 📚 *Always open for collaboration and learning new things.*
+
+---
+
